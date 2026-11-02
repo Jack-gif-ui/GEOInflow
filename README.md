@@ -4,7 +4,6 @@
 
 Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO).
 
-**Jointly published by 猎看科技 · 北京日报社智源GEO**
 
 [Quick start](docs/getting-started.en.md) · [Deployment](docs/deployment.en.md) · [AI crawler analytics](docs/ai-crawler-analytics.md) · [Architecture](docs/system-overview.md) · [Documentation](docs/README.md) · [Contributing](CONTRIBUTING.md)
 
